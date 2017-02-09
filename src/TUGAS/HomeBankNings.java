@@ -110,11 +110,11 @@ public class HomeBankNings extends javax.swing.JFrame {
 
         keterangan.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         getContentPane().add(keterangan);
-        keterangan.setBounds(270, 110, 490, 90);
+        keterangan.setBounds(270, 110, 490, 40);
 
         nilai.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         getContentPane().add(nilai);
-        nilai.setBounds(300, 310, 230, 30);
+        nilai.setBounds(270, 160, 490, 30);
 
         jLabel1.setText("BANK NING'S");
         getContentPane().add(jLabel1);

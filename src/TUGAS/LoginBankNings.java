@@ -87,7 +87,7 @@ public class LoginBankNings extends javax.swing.JFrame {
 
     private void goActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_goActionPerformed
         if(password.getText().trim().equals("1234")) {
-            javax.swing.JOptionPane.showMessageDialog(null, "Selamat Datang");
+            javax.swing.JOptionPane.showMessageDialog(null, "Anda Berhasil Login");
           new HomeBankNings().setVisible(true);
         }else{
             javax.swing.JOptionPane.showMessageDialog(null, "Maaf PIN yang anda masukan salah, Coba Lagi");
