@@ -7,10 +7,10 @@
 - Asal Sekolah      : SMK Telkom Malang
 
 ##Hasil ScreenShoot Project PBO Modul 10
-- Halaman Login<br>
-![screenshot_1](https://cloud.githubusercontent.com/assets/22046175/22765710/69c46c94-eea4-11e6-9668-f765e13b76ad.png)<br>
-- Konfirmasi Berhasil Login<br>
-![screenshot_2](https://cloud.githubusercontent.com/assets/22046175/22765714/69d0cb4c-eea4-11e6-9e2f-28f7f4e088b2.png)<br>
+- Halaman Login Aplikasi<br>
+![screenshot_1](https://cloud.githubusercontent.com/assets/22046175/23003663/e3ce1c1c-f424-11e6-9a02-e249eed169ea.png)<br>
+- Saat Salah Memasukkan PIN<br>
+![screenshot_2](https://cloud.githubusercontent.com/assets/22046175/23003664/e3cfea60-f424-11e6-9b64-cf4d738cde8b.png)<br>
 - Tampilan Home Saat Meng-Klik Saldo<br>
 ![screenshot_3](https://cloud.githubusercontent.com/assets/22046175/22765711/69c708dc-eea4-11e6-8968-d8b8946f1096.png)<br>
 - Saat Melakukan Penarikan<br>
